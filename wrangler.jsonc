@@ -153,7 +153,7 @@
   // Custom domain routing
   "routes": [
     {
-      "pattern": "m.easydemo.org",
+      "pattern": "matrix.etc.edu.eu.org",
       "custom_domain": true
     }
   ],
