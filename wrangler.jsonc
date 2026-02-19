@@ -181,7 +181,7 @@
       "binding": "PUSH_NOTIFICATION_WORKFLOW",
       "class_name": "PushNotificationWorkflow"
     }
-  ]
+  ],
 "migrations": [
   {
     "tag": "v1",
