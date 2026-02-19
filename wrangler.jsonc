@@ -158,11 +158,11 @@
     }
   ],
 
-  // Workers VPC for LiveKit connectivity
+  // Workers VPC for LiveKit connectivity 
   "vpc_services": [
     {
       "binding": "LIVEKIT_API",
-      "service_id": "019b6a8b-4d9e-7751-bef5-7d9a3f1807a9"
+      "service_id": "61e193b3-229e-45ed-875a-16d4a6c5652f"
     }
   ],
 
