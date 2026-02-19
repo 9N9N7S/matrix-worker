@@ -182,4 +182,19 @@
       "class_name": "PushNotificationWorkflow"
     }
   ]
+"migrations": [
+  {
+    "tag": "v1",
+    "new_sqlite_classes": [
+      "RoomDurableObject",
+      "SyncDurableObject",
+      "FederationDurableObject",
+      "CallRoomDurableObject",
+      "AdminDurableObject",
+      "UserKeysDurableObject",
+      "PushDurableObject",
+      "RateLimitDurableObject"
+    ]
+  }
+]
 }
