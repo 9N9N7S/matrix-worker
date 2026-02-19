@@ -122,11 +122,11 @@
 
   // Environment variables
   "vars": {
-    "SERVER_NAME": "m.easydemo.org",
+    "SERVER_NAME": "matrix.etc.edu.eu.org",
     "SERVER_VERSION": "0.1.0",
-    "TURN_KEY_ID": "42586a3b6b8415d1e69e825f169f3108",
+    "TURN_KEY_ID": "0677137c61d51c969ceb74ea21e0fc7f",
     "LIVEKIT_API_KEY": "devkey",
-    "LIVEKIT_URL": "wss://livekit.easydemo.org"
+    "LIVEKIT_URL": "wss://matrix.etc.edu.eu.org:7881"
   },
 
   // Secrets should be set using:
