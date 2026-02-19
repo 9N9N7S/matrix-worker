@@ -23,27 +23,27 @@
   "kv_namespaces": [
     {
       "binding": "SESSIONS",
-      "id": "366e0561b7054c2ebb07ceb44e8f92a5"
+      "id": "a43e9fbeee284c8d9e53c8cb22c4668f"
     },
     {
       "binding": "DEVICE_KEYS",
-      "id": "9c44be58428049ddbc69727e0e0ff3ef"
+      "id": "129d6a676e4d48e5ab9a87167b81f989"
     },
     {
       "binding": "CACHE",
-      "id": "121081991bbb4b44806dd973ea185404"
+      "id": "d501c7364d2a4abbb85b53d45160d2c7"
     },
     {
       "binding": "CROSS_SIGNING_KEYS",
-      "id": "b3f387bf735b4fc684a25656f1808abc"
+      "id": "d434511aee4a4652b6c0be1e84e11132"
     },
     {
       "binding": "ACCOUNT_DATA",
-      "id": "326dab002ae54bc7a10b99daad566670"
+      "id": "d6f70c1315044621b49cb1d6588f7770"
     },
     {
       "binding": "ONE_TIME_KEYS",
-      "id": "c3739acd328748f5a966c3b7ff2a6352"
+      "id": "8b073a7021b04be683d620aff2fbc748"
     }
   ],
 
