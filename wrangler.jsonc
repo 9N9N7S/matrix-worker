@@ -4,7 +4,7 @@
   "main": "src/index.ts",
   "compatibility_date": "2024-11-01",
   "compatibility_flags": ["nodejs_compat"],
-  "account_id": "1d9fd7c003b9fca90cd19fcb8ad02941"
+  "account_id": "1d9fd7c003b9fca90cd19fcb8ad02941",
 
   "observability": {
     "enabled": true
@@ -15,7 +15,7 @@
     {
       "binding": "DB",
       "database_name": "tuwunel-db",
-      "database_id": "16b1f2dd-1a33-43ce-8e4b-26700c2c5397"
+      "database_id": "36b31035-03de-40ed-8940-753d325bae27"
     }
   ],
 
@@ -23,27 +23,27 @@
   "kv_namespaces": [
     {
       "binding": "SESSIONS",
-      "id": "a43e9fbeee284c8d9e53c8cb22c4668f"
+      "id": "366e0561b7054c2ebb07ceb44e8f92a5"
     },
     {
       "binding": "DEVICE_KEYS",
-      "id": "129d6a676e4d48e5ab9a87167b81f989"
+      "id": "9c44be58428049ddbc69727e0e0ff3ef"
     },
     {
       "binding": "CACHE",
-      "id": "d501c7364d2a4abbb85b53d45160d2c7"
+      "id": "121081991bbb4b44806dd973ea185404"
     },
     {
       "binding": "CROSS_SIGNING_KEYS",
-      "id": "d434511aee4a4652b6c0be1e84e11132"
+      "id": "b3f387bf735b4fc684a25656f1808abc"
     },
     {
       "binding": "ACCOUNT_DATA",
-      "id": "d6f70c1315044621b49cb1d6588f7770"
+      "id": "326dab002ae54bc7a10b99daad566670"
     },
     {
       "binding": "ONE_TIME_KEYS",
-      "id": "8b073a7021b04be683d620aff2fbc748"
+      "id": "c3739acd328748f5a966c3b7ff2a6352"
     }
   ],
 
@@ -51,7 +51,7 @@
   "r2_buckets": [
     {
       "binding": "MEDIA",
-      "bucket_name": "tuwunel-media","preview_bucket_name": "tuwunel-media"
+      "bucket_name": "tuwunel-media"
     }
   ],
 
